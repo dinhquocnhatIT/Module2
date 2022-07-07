@@ -6,5 +6,6 @@ public class DisplayHello {
         System.out.println("Enter your name ");
         String name = sc.nextLine();
         System.out.printf("Hello %s ", name);//prinf %s hien thi chuoi
+        System.out.println("Enter your");
     }
 }
