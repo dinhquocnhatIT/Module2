@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//tinh dien tich hinh chu nhat
 public class RectangularArea {
     public static void main(String[] args) {
         double width ;
