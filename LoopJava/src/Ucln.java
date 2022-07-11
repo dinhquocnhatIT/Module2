@@ -1,4 +1,4 @@
-import javax.xml.bind.SchemaOutputResolver;
+
 import java.util.Scanner;
 
 public class Ucln {
@@ -10,6 +10,7 @@ public class Ucln {
         int b = sc.nextInt();
         a = Math.abs(a);
         b = Math.abs(b);
+        System.out.println("Enter b");
         if ( a == 0 || b == 0 ) {
             System.out.println("No greatest common factor");
         }

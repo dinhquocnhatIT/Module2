@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f165e3b-aced-47e4-98c2-b16e2032b932" name="Changes" comment="" />
+    <list default="true" id="3f165e3b-aced-47e4-98c2-b16e2032b932" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LoopJava/src/Drawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopJava/src/TwentyPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoopJava/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoopJava/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoopJava/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoopJava/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoopJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LoopJava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoopJava/src/Ucln.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LoopJava/src/Ucln.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Module2/Module2/ExamsFromMrCu",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,7 +52,21 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Prime">
+  <component name="RunManager" selected="Application.Delete">
+    <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Add" />
+      <module name="ExamsFromMrCu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Delete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Delete" />
+      <module name="ExamsFromMrCu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ExamsFromMrCu" />
@@ -68,6 +90,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Delete" />
+        <item itemvalue="Application.Add" />
         <item itemvalue="Application.Prime" />
         <item itemvalue="Application.Total" />
         <item itemvalue="Application.Main" />
@@ -83,6 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657195351638</updated>
       <workItem from="1657195353863" duration="11591000" />
+      <workItem from="1657501563151" duration="7503000" />
     </task>
     <servers />
   </component>
@@ -102,5 +127,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
