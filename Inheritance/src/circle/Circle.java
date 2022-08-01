@@ -3,7 +3,9 @@ package circle;
 public class Circle {
     private String color = "black";
     private double radius = 1;
-     Circle() {}
+     Circle() {
+
+     }
     Circle(double radius, String color) {
          this.radius = radius;
          this.color = color;

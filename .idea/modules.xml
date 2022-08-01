@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassObj/ClassObj.iml" filepath="$PROJECT_DIR$/ClassObj/ClassObj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamsFromMrCu/ExamsFromMrCu.iml" filepath="$PROJECT_DIR$/ExamsFromMrCu/ExamsFromMrCu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopJava/LoopJava.iml" filepath="$PROJECT_DIR$/LoopJava/LoopJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2.iml" filepath="$PROJECT_DIR$/Module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchMethod/SearchMethod.iml" filepath="$PROJECT_DIR$/SearchMethod/SearchMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort/Sort.iml" filepath="$PROJECT_DIR$/Sort/Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static_5/Static_5.iml" filepath="$PROJECT_DIR$/Static_5/Static_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1IntroJava/_1IntroJava.iml" filepath="$PROJECT_DIR$/_1IntroJava/_1IntroJava.iml" />
+    </modules>
+  </component>
+</project>

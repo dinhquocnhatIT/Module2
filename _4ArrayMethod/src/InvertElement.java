@@ -21,7 +21,7 @@ public class InvertElement {
             array [i] = scanner.nextInt();
             i ++;
         }
-        System.out.printf("%-20s%s","Elements in array","");
+        System.out.printf("\n%-20s%s","Elements in array","");
         for (int j = 0; j < array.length; j ++) {
             System.out.println(array[j]);
         }
@@ -30,7 +30,7 @@ public class InvertElement {
             array[j] = array[size - 1 -j];
             array[size - 1 -j] = temp;
         }
-        System.out.printf("\n%-20s%s", "revers array", "");
+        System.out.printf("\n%-20s%s", "Revers array", "");
         for(int j = 0; j < array.length; j ++) {
             System.out.println(array[j]);
         }

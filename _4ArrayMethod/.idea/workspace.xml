@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e491cb39-1849-4361-9d7f-e4c68b93ef27" name="Changes" comment="dem so lan xuat hien cua ki tu trong chuoi">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_4ArrayMethod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/_4ArrayMethod.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_4ArrayMethod/FindIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_4ArrayMethod/FindIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_4ArrayMethod/InvertElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_4ArrayMethod/InvertElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InvertElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InvertElement.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Bn14zNgXO6f7PKDcg03z0U4Exf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Module2/Module2/ExamsFromMrCu",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.AddElement">
+    <configuration name="AddElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.AddElement" />
+      <module name="_4ArrayMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountCharOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CountCharOfString" />
+      <module name="_4ArrayMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CountStudent" />
+      <module name="_4ArrayMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MinArray" />
+      <module name="_4ArrayMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TotalDiagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.TotalDiagonal" />
+      <module name="_4ArrayMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AddElement" />
+        <item itemvalue="Application.CountCharOfString" />
+        <item itemvalue="Application.TotalDiagonal" />
+        <item itemvalue="Application.CountStudent" />
+        <item itemvalue="Application.MinArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e491cb39-1849-4361-9d7f-e4c68b93ef27" name="Changes" comment="" />
+      <created>1657526857602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657526857602</updated>
+      <workItem from="1657526860354" duration="354000" />
+      <workItem from="1657527573789" duration="13485000" />
+      <workItem from="1657633326650" duration="37000" />
+    </task>
+    <task id="LOCAL-00001" summary="ADD FILE MAX">
+      <created>1657531188524</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657531188524</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add filr change temp doi nhiet do">
+      <created>1657532425168</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657532425168</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add file  min on  java">
+      <created>1657588815621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657588815621</updated>
+    </task>
+    <task id="LOCAL-00004" summary="delete element file on git add">
+      <created>1657589217640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657589217640</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add file add element on github">
+      <created>1657589576894</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657589576894</updated>
+    </task>
+    <task id="LOCAL-00006" summary="gop mang trong java">
+      <created>1657590067912</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657590067912</updated>
+    </task>
+    <task id="LOCAL-00007" summary="max trong matrix mang 2 chieu">
+      <created>1657590734345</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1657590734345</updated>
+    </task>
+    <task id="LOCAL-00008" summary="min trong mang khong dung phuong thuc">
+      <created>1657591535917</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657591535917</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ứng dụng đếm số lượng sinh viên thi đỗ">
+      <created>1657592254351</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657592254351</updated>
+    </task>
+    <task id="LOCAL-00010" summary="tong cua cot trong matrix">
+      <created>1657593007469</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657593007469</updated>
+    </task>
+    <task id="LOCAL-00011" summary="tinh duong cheo hinh vuong">
+      <created>1657596282618</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657596282618</updated>
+    </task>
+    <task id="LOCAL-00012" summary="dem so lan xuat hien cua ki tu trong chuoi">
+      <created>1657597654756</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657597654756</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADD FILE MAX" />
+    <MESSAGE value="add filr change temp doi nhiet do" />
+    <MESSAGE value="add file  min on  java" />
+    <MESSAGE value="delete element file on git add" />
+    <MESSAGE value="add file add element on github" />
+    <MESSAGE value="gop mang trong java" />
+    <MESSAGE value="max trong matrix mang 2 chieu" />
+    <MESSAGE value="min trong mang khong dung phuong thuc" />
+    <MESSAGE value="Ứng dụng đếm số lượng sinh viên thi đỗ" />
+    <MESSAGE value="tong cua cot trong matrix" />
+    <MESSAGE value="tinh duong cheo hinh vuong" />
+    <MESSAGE value="dem so lan xuat hien cua ki tu trong chuoi" />
+    <option name="LAST_COMMIT_MESSAGE" value="dem so lan xuat hien cua ki tu trong chuoi" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FindIndex.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

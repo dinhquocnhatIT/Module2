@@ -1,5 +1,6 @@
 public class Rectangle  extends Shape  implements  ResizeAble {
     private  double width;
+
     private double height;
 
     public Rectangle(double width, double height) {
