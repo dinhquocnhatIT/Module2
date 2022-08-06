@@ -33,6 +33,7 @@ public class UIManager {
         }
         this.employeeManager.insert(employee);
     }
+    //input experience info
     private Experience insertExperience(){
         Experience experience = new Experience();
         Scanner sc = ScannerFactory.getScanner();
@@ -50,6 +51,7 @@ public class UIManager {
         String proSkill = sc.nextLine();
         return experience;
     }
+    //input fresher info
     private Fresher insertFresher(){
         Fresher fresher = new Fresher();
         Scanner scanner = ScannerFactory.getScanner();
@@ -67,6 +69,7 @@ public class UIManager {
         String education = scanner.nextLine();
         return fresher;
     }
+    //input intern info
     private Intern insertIntern(){
         Intern intern = new Intern();
         Scanner scanner = ScannerFactory.getScanner();
@@ -86,12 +89,13 @@ public class UIManager {
         String UniversityName = scanner.nextLine();
         return intern;
     }
+    //update
     private void update(){
         System.out.println("Input ID to update:");
         String id = ScannerFactory.getScanner().nextLine();
         Employee employee = this.employeeManager.findById(id);
     }
-
+    //exception
     private void checkData(Employee employee) throws BirthDayException, PhoneException, EmailException, FullNameException {
         ValidatorService.birthDayCheck(employee.getBirthDay());
         ValidatorService.phoneCheck(employee.getPhone());
