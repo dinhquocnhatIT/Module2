@@ -15,7 +15,7 @@ public class GenericStackClient {
         while (!stack.isEmpty()){
             System.out.printf(" %s",stack.pop());
         }
-        System.out.println("size of stack after pop: " + stack.size());
+        System.out.println("\nsize of stack after pop: " + stack.size());
     }
     private static void stackOfInteger(){
         MyGenericStack<Integer> stack = new MyGenericStack<>();
@@ -24,18 +24,21 @@ public class GenericStackClient {
         stack.push(3);
         stack.push(2);
         stack.push(1);
-        System.out.println("size of stack" + stack.size());
-        System.out.println("pop element from stack: ");
+        System.out.println(" size of stack:  " + stack.size());
+        System.out.println(" \npop element from stack: ");
         while (!stack.isEmpty()){
             System.out.printf(" %d",stack.pop());
         }
-        System.out.println("size of stack after pop: " + stack.size());
+        System.out.println("\nsize of stack after pop: " + stack.size());
     }
 
     public static void main(String[] args) {
         System.out.println("stack of integer: ");
+        System.out.println();
         stackOfInteger();
+        System.out.println("---------------------------------------");
         System.out.println("stack of String: ");
+        System.out.println();
         stackOfStrings();
     }
 }
