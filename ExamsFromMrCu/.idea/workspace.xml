@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f165e3b-aced-47e4-98c2-b16e2032b932" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../DsoDanhSach/src/arraylist/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DsoDanhSach/src/arraylist/MyArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DsoDanhSach/src/linkedlist/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DsoDanhSach/src/linkedlist/MyLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DsoDanhSach/src/linkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/src/thuc_hanh_stack_linkedlist/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StackAndQueue/src/thuc_hanh_stack_linkedlist/MyGenericStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,20 +55,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.stack_heap.Main">
-    <configuration name="SetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set_demo.SetDemo" />
-      <module name="ExamsFromMrCu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="set_demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.product_manager.Main">
     <configuration name="StackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stackdemo.StackDemo" />
       <module name="ExamsFromMrCu" />
@@ -85,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo_employee.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo_employee.Main" />
+    <configuration name="equalsDemo.animal.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equalsDemo.animal.Test" />
       <module name="ExamsFromMrCu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo_employee.*" />
+          <option name="PATTERN" value="equalsDemo.animal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +82,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="equalsDemo.animal.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equalsDemo.animal.Test" />
+    <configuration name="product_manager.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="product_manager.Main" />
       <module name="ExamsFromMrCu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="equalsDemo.animal.*" />
+          <option name="PATTERN" value="regex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="regex.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regex.Test" />
+      <module name="ExamsFromMrCu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.product_manager.Main" />
+        <item itemvalue="Application.regex.Test" />
         <item itemvalue="Application.stack_heap.Main" />
         <item itemvalue="Application.StackDemo" />
         <item itemvalue="Application.equalsDemo.animal.Test" />
-        <item itemvalue="Application.SetDemo" />
-        <item itemvalue="Application.demo_employee.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +161,8 @@
       <workItem from="1659575487772" duration="3539000" />
       <workItem from="1659663853301" duration="6146000" />
       <workItem from="1659683498023" duration="31000" />
+      <workItem from="1659880541471" duration="9131000" />
+      <workItem from="1659919902094" duration="1593000" />
     </task>
     <servers />
   </component>
